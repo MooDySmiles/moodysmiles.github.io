@@ -8,3 +8,9 @@
     @apply text-2xl;
   }
 }
+
+app-froala-component {
+  .fr-code {
+    max-height: 499px !important;
+  }
+}
